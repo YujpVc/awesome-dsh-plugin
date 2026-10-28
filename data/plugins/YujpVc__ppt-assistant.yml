@@ -5,3 +5,4 @@ description:
   en: End-to-end PowerPoint assistant preset for DeepSeek Harness with editable deck generation, template-preserving edits, rendering and structural quality checks.
   zh: DeepSeek Harness 的一条龙 PowerPoint 助手预设，支持可编辑演示文稿生成、保留模板的修改、渲染和结构质量检查。
 icon: https://raw.githubusercontent.com/YujpVc/ppt-assistant/master/assets/logo.png
+tarball: https://github.com/YujpVc/ppt-assistant/releases/download/v1.0.0/ppt-assistant-1.0.0.tgz
